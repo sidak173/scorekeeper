@@ -4,8 +4,8 @@ h1{
     margin: 2rem 0rem;
 }
 body{
-    height: 100vh;
     background: linear-gradient(red, blue);
+    height: 100vh;
     color: white;
 }
 h2 span{
